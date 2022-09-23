@@ -20,8 +20,8 @@ public class Ktm implements Bike{
 		
 		a.cost();
 		a.speed();
+		System.out.println("created");
 	}
-	
 	
 	
 
