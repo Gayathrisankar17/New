@@ -22,6 +22,7 @@ public class Ktm implements Bike{
 		a.speed();
 		System.out.println("created and updated");
 		System.out.println("update on 24/9/2022");
+		System.out.println("code by keerthana");
 	}
 	
 	
