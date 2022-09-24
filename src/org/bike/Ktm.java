@@ -20,10 +20,17 @@ public class Ktm implements Bike{
 		
 		a.cost();
 		a.speed();
+
+		
+
+		System.out.println("updated");
+		System.out.println("update on 24/9/2022");
+		System.out.println("code by keerthana");
 		System.out.println("modified");
-		}
-	
+	}
+	}
+
 	
 	
 
-}
+
